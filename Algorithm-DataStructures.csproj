@@ -8,4 +8,21 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Algorithms\Array\" />
+      <Folder Include="Algorithms\BinarySearch\" />
+      <Folder Include="Algorithms\BinaryTree\DFS\" />
+      <Folder Include="Algorithms\BinaryTree\General\" />
+      <Folder Include="Algorithms\BitManipulation\" />
+      <Folder Include="Algorithms\DynamicProgramming\1D\" />
+      <Folder Include="Algorithms\DynamicProgramming\Multidimensional\" />
+      <Folder Include="Algorithms\HashMap\" />
+      <Folder Include="Algorithms\Intervals\" />
+      <Folder Include="Algorithms\LinkedList\" />
+      <Folder Include="Algorithms\Matrix\" />
+      <Folder Include="Algorithms\SlidingWindow\" />
+      <Folder Include="Algorithms\Stack\" />
+      <Folder Include="Algorithms\TwoPointers\" />
+    </ItemGroup>
+
 </Project>
