@@ -11,7 +11,6 @@
     <ItemGroup>
       <Folder Include="Algorithms\Array\" />
       <Folder Include="Algorithms\BinarySearch\" />
-      <Folder Include="Algorithms\BinaryTree\DFS\" />
       <Folder Include="Algorithms\BinaryTree\General\" />
       <Folder Include="Algorithms\BitManipulation\" />
       <Folder Include="Algorithms\DynamicProgramming\Multidimensional\" />
