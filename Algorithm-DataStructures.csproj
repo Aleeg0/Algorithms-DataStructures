@@ -14,7 +14,6 @@
       <Folder Include="Algorithms\BinaryTree\DFS\" />
       <Folder Include="Algorithms\BinaryTree\General\" />
       <Folder Include="Algorithms\BitManipulation\" />
-      <Folder Include="Algorithms\DynamicProgramming\1D\" />
       <Folder Include="Algorithms\DynamicProgramming\Multidimensional\" />
       <Folder Include="Algorithms\LinkedList\" />
       <Folder Include="Algorithms\Matrix\" />
