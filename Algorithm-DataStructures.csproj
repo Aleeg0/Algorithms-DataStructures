@@ -16,7 +16,6 @@
       <Folder Include="Algorithms\BitManipulation\" />
       <Folder Include="Algorithms\DynamicProgramming\1D\" />
       <Folder Include="Algorithms\DynamicProgramming\Multidimensional\" />
-      <Folder Include="Algorithms\HashMap\" />
       <Folder Include="Algorithms\LinkedList\" />
       <Folder Include="Algorithms\Matrix\" />
       <Folder Include="Algorithms\SlidingWindow\" />
