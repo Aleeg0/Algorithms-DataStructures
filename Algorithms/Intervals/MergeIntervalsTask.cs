@@ -6,7 +6,7 @@ public class MergeIntervalsTask
     {
         if (intervals.Length == 1)
             return intervals;
-        Array.Sort(intervals, MyComparer);
+        System.Array.Sort(intervals, MyComparer);
         List<int[]> answer = new List<int[]>();
         int j = 0;
         int cur = 0;

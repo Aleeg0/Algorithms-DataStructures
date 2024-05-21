@@ -9,7 +9,7 @@ public class GroupAnagramsTask
         for (int i = 0; i < strs.Length; i++)
         {
             char[] wordArr = strs[i].ToCharArray();
-            Array.Sort(wordArr);
+            System.Array.Sort(wordArr);
             string word = new string(wordArr);
             if (!dictionary.ContainsKey(word))
                 dictionary.Add(word, new List<string>());

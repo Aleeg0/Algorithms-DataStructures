@@ -7,8 +7,8 @@ public class CoinChangeTask
     {
         const int INF = 10001;
         int[] bestSolution = new int[amount + 1];
-        Array.Fill(bestSolution, INF);
-        Array.Sort(coins);
+        System.Array.Fill(bestSolution, INF);
+        System.Array.Sort(coins);
         bestSolution[0] = 0;
         for (int i = 1; i < bestSolution.Length; i++)
         {

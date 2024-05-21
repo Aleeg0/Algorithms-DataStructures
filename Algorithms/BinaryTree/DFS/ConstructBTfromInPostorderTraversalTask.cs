@@ -15,7 +15,7 @@ public class ConstructBTfromInPostorderTraversalTask
     {
         if (postEnd <= postStart || inEnd <= inStart)
             return null;
-        int index = Array.IndexOf(_inorder, _postorder[postEnd-1]);
+        int index = System.Array.IndexOf(_inorder, _postorder[postEnd-1]);
         TreeNode node = new TreeNode(_postorder[postEnd-1],
             null,
             null);

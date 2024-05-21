@@ -5,7 +5,7 @@ public class LongestIncreasingSubsequenceTask
     public int LengthOfLIS(int[] nums)
     {
         int[] best = new int[nums.Length];
-        Array.Fill(best, 1);
+        System.Array.Fill(best, 1);
         int max = 1;
         for (int i = nums.Length - 2; i >= 0; i--)
         {
