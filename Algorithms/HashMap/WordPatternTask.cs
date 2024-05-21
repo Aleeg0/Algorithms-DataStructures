@@ -6,7 +6,7 @@ public class WordPatternTask
     {
         Dictionary<char, string> dicP = new Dictionary<char, string>();
         Dictionary<string, char> dicS = new Dictionary<string, char>();
-        String[] arrS = s.Split(' ');
+        System.String[] arrS = s.Split(' ');
         if (arrS.Length != pattern.Length)
             return false;
         for (int i = 0; i < pattern.Length; i++)
