@@ -9,14 +9,13 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Algorithms\Array\" />
       <Folder Include="Algorithms\BinarySearch\" />
       <Folder Include="Algorithms\BinaryTree\General\" />
       <Folder Include="Algorithms\BitManipulation\" />
       <Folder Include="Algorithms\DynamicProgramming\Multidimensional\" />
-      <Folder Include="Algorithms\LinkedList\" />
       <Folder Include="Algorithms\Matrix\" />
       <Folder Include="Algorithms\SlidingWindow\" />
+      <Folder Include="Algorithms\String\" />
       <Folder Include="Algorithms\TwoPointers\" />
     </ItemGroup>
 
