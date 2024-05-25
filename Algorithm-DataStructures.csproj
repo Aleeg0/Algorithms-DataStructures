@@ -15,7 +15,6 @@
       <Folder Include="Algorithms\DynamicProgramming\Multidimensional\" />
       <Folder Include="Algorithms\Matrix\" />
       <Folder Include="Algorithms\SlidingWindow\" />
-      <Folder Include="Algorithms\TwoPointers\" />
     </ItemGroup>
 
 </Project>
