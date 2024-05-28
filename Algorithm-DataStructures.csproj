@@ -11,10 +11,7 @@
     <ItemGroup>
       <Folder Include="Algorithms\BinarySearch\" />
       <Folder Include="Algorithms\BinaryTree\General\" />
-      <Folder Include="Algorithms\BitManipulation\" />
       <Folder Include="Algorithms\DynamicProgramming\Multidimensional\" />
-      <Folder Include="Algorithms\Matrix\" />
-      <Folder Include="Algorithms\SlidingWindow\" />
     </ItemGroup>
 
 </Project>
